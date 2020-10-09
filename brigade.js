@@ -16,7 +16,7 @@ const { events, Job } = require("brigadier");
 
   docker.tasks = [
     "dockerd-entrypoint.sh &",
-    "sleep 10",
+    "sleep 20",
     "cd src",
     "pwd",
     "cat README.md",

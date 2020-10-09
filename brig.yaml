@@ -1,9 +1,9 @@
 project: "prabhat-brig1"
 repository: "github.com/prabhatsuccessive/brig1.git"
 cloneURL: "https://github.com/prabhatsuccessive/brig1.git"
-sharedSecret: "1234"
+sharedSecret: "PRABHAT_SECRET1"
 github:
-  token: "b2668fcb1ca6f04d672f6a6f5cbf6e9e80ccb135"
+  token: "a18d95625a30615327121d5ad2ab36c1d80037e5"
 
 secrets:
   dockerPass: pr@123456
